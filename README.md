@@ -1,5 +1,9 @@
 # VanguardIQ – Personal Finance Advisor
 
+Demo Link : https://aistudio.google.com/u/0/apps/767db499-f3ea-4abb-9559-04676e5a5530?showAssistant=true&project=gen-lang-client-0048910358&showPreview=true
+
+Full Document : https://1drv.ms/w/c/A4AA4BCFAE29EAB4/IQB9P91fhMLITKvXWmxNzJLNAV5vKA9NRCpy5x3KOnmB6EI?e=P9JPac
+
 VanguardIQ is an AI-powered personal finance assistant that analyzes your income, expenses, financial goals, and savings capacity to generate:
 1. **Personalized 50/30/20 & Custom Budget Plans**
 2. **AI Saving Suggestions** (with projected monthly impact and priority levels)
