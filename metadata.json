@@ -1,0 +1,6 @@
+{
+  "name": "FinWise AI – Personal Finance Advisor",
+  "description": "AI-powered personal finance assistant providing smart budget planning, personalized saving suggestions, cash-flow breakdown, and interactive financial scenario simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
